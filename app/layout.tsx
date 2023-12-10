@@ -5,8 +5,8 @@ import { PropsWithChildren } from 'react';
 import 'styles/main.css';
 
 const meta = {
-  title: 'Next.js Subscription Starter',
-  description: 'Brought to you by Vercel, Stripe, and Supabase.',
+  title: '元魁Darren測試',
+  description: '元魁&Darren的AI旅行',
   cardImage: '/og.png',
   robots: 'follow, index',
   favicon: '/favicon.ico',

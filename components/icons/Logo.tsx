@@ -19,3 +19,4 @@ const Logo = ({ className = '', ...props }) => (
 );
 
 export default Logo;
+
